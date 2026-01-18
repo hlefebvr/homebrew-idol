@@ -3,8 +3,8 @@ class Idol < Formula
     homepage "https://henrilefebvre.com/idol"
     
     on_macos do
-        url "https://github.com/hlefebvr/idol/releases/download/0.8.0/idol-MacOSX-macos.tar.gz"
-        sha256 "4fdea0e08eccd82c116f636d65bbad184dfe37a13c102e253f0b9cdbc890e335"
+        url "https://github.com/hlefebvr/idol/releases/download/MacOSX/idol-MacOSX-macos.tar.gz"
+        sha256 "f97ccdd9005195726003af8d4fc436c676db8fe8e60f8b9e2925eb5381c0f348"
         version "0.8.0"
     end
 
