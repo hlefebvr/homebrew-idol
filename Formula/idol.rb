@@ -2,8 +2,8 @@ class Idol < Formula
   desc "idol: A C++ Framework for Optimization."
   homepage "https://henrilefebvre.com/idol"
   on_macos do
-    url "https://github.com/hlefebvr/idol/releases/download/MacOSX/"
-    sha256 ""
+    url "https://github.com/hlefebvr/idol/releases/download/MacOSX/idol-MacOSX-macos.tar.gz"
+    sha256 "a82ba43b8acc792fb906ac32af54a5482e7e4db9cf453c3fc1c0c62be062a432"
     end
 
     on_linux do
