@@ -1,4 +1,4 @@
-class idol < Formula
+class Idol < Formula
     desc "idol: A C++ Framework for Optimization."
     homepage "https://henrilefebvre.com/idol"
     
