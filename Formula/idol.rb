@@ -4,7 +4,7 @@ class Idol < Formula
     
     on_macos do
         url "https://github.com/hlefebvr/idol/releases/download/MacOSX/idol-MacOSX-macos.tar.gz"
-        sha256 "a82ba43b8acc792fb906ac32af54a5482e7e4db9cf453c3fc1c0c62be062a432"
+        sha256 "3a3604cd243a016fd6ee131ee0bf06fa749b22e26219bd19f4cae1dcdf4315cf"
         version "v0.9.0"
     end
 
