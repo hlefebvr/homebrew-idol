@@ -21,6 +21,6 @@ class Idol < Formula
     end
 
     test do
-        system "#{bin}/idol_cli", "--version" if File.exist?("#{bin}/idol_cli")
+        system "#{bin}/idol_cl", "--version" if File.exist?("#{bin}/idol_cl")
     end
 end
