@@ -3,9 +3,9 @@ class Idol < Formula
     homepage "https://henrilefebvre.com/idol"
     
     on_macos do
-        url "https://github.com/hlefebvr/idol/releases/download/0.0.1/idol-0.0.1-macos-arm64.tar.gz"
-        sha256 "1961b4b0ae203310ae87bf96568fa16a0df3f39717dbd38478c3526ca01cd631"
-        version "0.0.1"
+        url "https://github.com/hlefebvr/idol/releases/download/0.9.0/idol-0.9.0-macos-arm64.tar.gz"
+        sha256 "98c26b4b4504c34791a07e1c0204d07af4e28ef46a6b2d7b3427e726d9a4f363"
+        version "0.9.0"
     end
 
     #on_linux do
